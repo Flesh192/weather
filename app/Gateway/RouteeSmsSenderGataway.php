@@ -49,7 +49,7 @@ class RouteeSmsSenderGataway implements ISenderInterface
                 'json' => [
                     'body' => $text,
                     'to' => $number,
-                    'from' => 'Vladymyr',
+                    'from' => $_ENV['SENDER_NAME'],
                 ],
             ]);
         //TODO: Here we can process different kind of exception, but its simple test, so just echo

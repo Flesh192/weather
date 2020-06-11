@@ -15,7 +15,7 @@ interface ISenderInterface
 {
     /**
      * @param string $number
-     * @param string $temperature
+     * @param string $text
      * @throws RequestException
      * @throws ClientException
      * @throws Exception
