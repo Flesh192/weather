@@ -1,0 +1,11 @@
+WEATHER_URI=api.openweathermap.org/data/2.5/weather
+WEATHER_CITY=Thessaloniki
+WEATHER_APPID=b385aa7d4e568152288b3c9f5c2458a5
+
+ROUTEE_AUTH_URL=https://auth.routee.net/oauth/token
+ROUTEE_SEND_SMS_URL=https://connect.routee.net/sms
+ROUTEE_APP_ID=57cd83a3e4b0464b9119ba46
+ROUTEE_APP_SECRET=OXr7WYcP9A
+
+PHONE_LESS_20=+306948872100
+PHONE_MORE_20=+306948872100
